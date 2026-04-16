@@ -1,11 +1,11 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,12,20&amp;height=200&amp;section=header&amp;text=Maruf%20Billah&amp;fontSize=62&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Frontend%20Developer%20%C2%B7%20React%20|%20Next.js&amp;descAlignY=58&amp;descSize=18&amp;descColor=ffffffaa&amp;animation=fadeIn" width="100%" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Maruf%20Billah&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=MERN%20Stack%20Developer%20in%20the%20Making&descAlignY=57&descSize=17&descColor=ffffffbb&animation=fadeIn" width="100%" />
-
-<br/>
+<div align="center">
 
 <a href="https://github.com/imarufbillah">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=24&duration=3500&pause=1200&color=EB5C20&center=true&vCenter=true&width=700&lines=React+%26+Next.js+Developer+%F0%9F%9A%80;Building+Polished%2C+Deployed+UIs;Dhaka%2C+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9+%E2%86%92+Full+MERN+Stack;Design-Obsessed+%7C+Detail-Driven+%7C+Always+Shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=22&duration=3500&pause=1200&color=EB5C20&center=true&vCenter=true&width=680&lines=Building+Polished%2C+Deployed+UIs+%F0%9F%9A%80;React+%26+Next.js+Developer+from+Dhaka+%F0%9F%87%A7%F0%9F%87%A9;Design-Obsessed+%C2%B7+Detail-Driven+%C2%B7+Always+Shipping;On+the+Road+to+Full-Stack+MERN" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -20,42 +20,51 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
 ## `< about_me />`
 
-```js
-const maruf = {
-  name:       "Maruf Billah",
-  location:   "Dhaka, Bangladesh 🇧🇩",
-  role:       "Aspiring MERN Stack Developer",
-  currentFocus: ["React.js", "Next.js App Router", "Context API"],
-  nextChapter:  ["Node.js", "Express.js", "MongoDB"],
-  philosophy:   "First, solve the problem. Then, write the code.",
-  superpower:   "Turning ideas into polished, deployed UIs ✨",
-};
-```
+<div align="center">
 
-I'm a **frontend developer** who learns by *building real things*. Every project in my GitHub is a step forward — from HTML/CSS foundations all the way to full **Next.js apps** with dynamic routing, data visualization, and deployed on Vercel. I care deeply about **design quality** — not just making things work, but making them beautiful.
+| 🧩 | |
+|---|---|
+| **Name** | Maruf Billah |
+| **Location** | Dhaka, Bangladesh 🇧🇩 |
+| **Role** | Frontend Developer → Full-Stack (MERN) in Progress |
+| **Current Focus** | Next.js App Router · React 19 · Context API |
+| **Learning Next** | Node.js · Express.js · MongoDB |
+| **Philosophy** | *First, solve the problem. Then, write the code.* |
+| **Superpower** | Turning ideas into polished, deployed UIs ✨ |
+
+</div>
+
+<br/>
+
+<p align="center">
+I'm a <strong>frontend developer</strong> who learns by <em>building real things and shipping them</em>.
+My GitHub reflects a clear growth path — from HTML/CSS foundations to JavaScript,
+React, and modern <strong>Next.js applications</strong> with dynamic routing,
+data visualization, and live deployments.
+<br/><br/>
+I care deeply about <strong>design quality</strong> — not just making products work,
+but making them <em>feel exceptional</em>.
+</p>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
 ### ⭐ KeenKeeper — Flagship Project
+
 > *A personal relationship manager to stay intentional about the people who matter most*
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_App-EB5C20?style=for-the-badge&labelColor=0d1117)](https://keen-keeper-by-marufbillah.vercel.app)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/imarufbillah/keen-keeper)
+[![Source Code](https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/imarufbillah/keen-keeper)
 
-**Next.js 15 · React 19 · Tailwind CSS 4 · Recharts · Context API**
+`Next.js 15` · `React 19` · `Tailwind CSS 4` · `Recharts` · `Context API`
 
-Friend dashboard with health status tracking · Interaction timeline · Friendship analytics charts · Dynamic routing
+Friend dashboard with health status tracking · Interaction timeline with search/filter · Analytics charts · Dynamic routing
 
 </div>
 
@@ -63,27 +72,22 @@ Friend dashboard with health status tracking · Interaction timeline · Friendsh
 
 <div align="center">
 
-| 🔧 Project | 💡 Description | ⚙️ Stack | 🔗 Links |
-|:---:|:---|:---:|:---:|
+| Project | Description | Stack | Links |
+|:--------|:------------|:------|:-----:|
+| **BookVibe** | Editorial-aesthetic book discovery platform | React · Tailwind · JS | [![Live](https://img.shields.io/badge/Live-EB5C20?style=flat-square)](https://book-vibe-by-marufbillah.vercel.app) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/imarufbillah/book-vibe) |
 | **DigiTools** | All-in-one digital tools platform with cart system & pricing UI | React · Tailwind · DaisyUI | [![Live](https://img.shields.io/badge/Live-EB5C20?style=flat-square)](https://digi-tools-by-marufbillah.vercel.app) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/imarufbillah/digi-tools) |
-| **GitHub Issues Tracker** | Vanilla JS concept docs with live examples — deployed on Netlify | HTML · CSS · JS | [![Live](https://img.shields.io/badge/Live-EB5C20?style=flat-square)](https://github-issues-tracker-by-marufbillah.netlify.app) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/imarufbillah/github-issues-tracker) |
-| **Payoo MFS** | Mobile financial service UI — multi-page payment app interface | HTML · CSS · Tailwind · JS | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/imarufbillah/payoo-mfs) |
-| **English Janala** | Vocabulary learning app with audio pronunciation support | HTML · CSS · JS | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/imarufbillah/english-janala) |
-| **Green Earth** | Interactive environmental awareness & tree plantation app | HTML · CSS · JS | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/imarufbillah/green-earth) |
-| **ToolSync** 🔄 | React multi-tool utility: JSON formatter, Markdown preview & more | React · CSS · JS | *In Progress* |
-| **BookVibe** 🔄 | Editorial-aesthetic book discovery platform | React · Tailwind · JS | *In Progress* |
+| **Green Earth** | Interactive environmental awareness & tree plantation app | HTML · CSS · JS | [![Live](https://img.shields.io/badge/Live-EB5C20?style=flat-square)](https://github.com/imarufbillah/green-earth) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/imarufbillah/green-earth) |
+| **English Janala** | Vocabulary learning app with audio pronunciation support | HTML · CSS · JS | [![Live](https://img.shields.io/badge/Live-EB5C20?style=flat-square)](https://english-janala-by-marufbillah.netlify.app) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/imarufbillah/english-janala) |
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
 ## 🧰 Tech Stack
 
 <div align="center">
 
-### 🎨 What I Build With
+### 🎨 I Build With
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -102,7 +106,7 @@ Friend dashboard with health status tracking · Interaction timeline · Friendsh
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-### 🔭 Learning Next
+### 📖 Currently Learning
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -113,13 +117,11 @@ Friend dashboard with health status tracking · Interaction timeline · Friendsh
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=imarufbillah&show_icons=true&theme=transparent&title_color=EB5C20&icon_color=EB5C20&text_color=c9d1d9&border_color=EB5C2030&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=imarufbillah&show_icons=true&theme=transparent&title_color=EB5C20&icon_color=EB5C20&text_color=c9d1d9&border_color=EB5C2030&rank_icon=github&include_all_commits=true&count_private=true" height="170"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imarufbillah&layout=compact&theme=transparent&title_color=EB5C20&text_color=c9d1d9&border_color=EB5C2030&langs_count=7" height="170"/>
 
@@ -135,15 +137,12 @@ Friend dashboard with health status tracking · Interaction timeline · Friendsh
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
-## 🗺️ Developer Roadmap
+## 🗺️ MERN Roadmap
 
 <div align="center">
 
-## 🚀 MARUF'S MERN JOURNEY
-
 ### ✅ Completed
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript ES6+](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -153,19 +152,20 @@ Friend dashboard with health status tracking · Interaction timeline · Friendsh
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🔄 In Progress
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)![Advanced](https://img.shields.io/badge/Advanced-6B7280?style=for-the-badge)
 
-### ⏳ Upcoming
+![Next.js Advanced](https://img.shields.io/badge/Next.js-Advanced-EB5C20?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000)
+
+### ⏳ Coming Up
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Auth](https://img.shields.io/badge/Auth-JWT_%7C_NextAuth-000000?style=for-the-badge)
+![Auth](https://img.shields.io/badge/Auth-NextAuth_%7C_JWT-000000?style=for-the-badge)
+
 </div>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ## 📬 Let's Connect
 
@@ -179,9 +179,9 @@ Friend dashboard with health status tracking · Interaction timeline · Friendsh
 
 <br/>
 
-*I'm open to collaborations, feedback, and learning together.* 🤝
+*Open to collaborations, feedback, and learning together.* 🤝
 
-*If you find my work interesting, a ⭐ on any repo means the world!*
+*If something here sparked your interest — a ⭐ on any repo means the world!*
 
 </div>
 
