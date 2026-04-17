@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,12,20&amp;height=200&amp;section=header&amp;text=Maruf%20Billah&amp;fontSize=62&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Frontend%20Developer%20%C2%B7%20React%20|%20Next.js&amp;descAlignY=58&amp;descSize=18&amp;descColor=ffffffaa&amp;animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E855DE,100:8B3DFF&height=200&section=header&text=Maruf%20Billah&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descSize=18&descColor=ffffffaa&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
@@ -24,14 +24,14 @@
 
 <div align="center">
 
-| 🧩 | |
+| | |
 |---|---|
 | **Name** | Maruf Billah |
 | **Location** | Dhaka, Bangladesh 🇧🇩 |
 | **Role** | Frontend Developer → Full-Stack (MERN) in Progress |
-| **Current Focus** | Next.js App Router · React 19 · Context API |
-| **Learning Next** | Node.js · Express.js · MongoDB |
-| **Philosophy** | *First, solve the problem. Then, write the code.* |
+| **Current Focus** | `Next.js App Router` · `React 19` · `Context API` |
+| **Learning Next** | `Node.js` · `Express.js` · `MongoDB` |
+| **Philosophy** | *"First, solve the problem. Then, write the code."* |
 | **Superpower** | Turning ideas into polished, deployed UIs ✨ |
 
 </div>
@@ -39,13 +39,13 @@
 <br/>
 
 <p align="center">
-I'm a <strong>frontend developer</strong> who learns by <em>building real things and shipping them</em>.
-My GitHub reflects a clear growth path — from HTML/CSS foundations to JavaScript,
-React, and modern <strong>Next.js applications</strong> with dynamic routing,
-data visualization, and live deployments.
-<br/><br/>
-I care deeply about <strong>design quality</strong> — not just making products work,
-but making them <em>feel exceptional</em>.
+  I'm a <strong>frontend developer</strong> who learns by <em>building real things and shipping them</em>.<br/>
+  My GitHub reflects a clear growth path — from HTML/CSS foundations to JavaScript,<br/>
+  React, and modern <strong>Next.js applications</strong> with dynamic routing,<br/>
+  data visualization, and live deployments.
+  <br/><br/>
+  I care deeply about <strong>design quality</strong> — not just making things work,<br/>
+  but making them <em>feel exceptional</em>.
 </p>
 
 ---
@@ -191,8 +191,8 @@ Friend dashboard with health status tracking · Interaction timeline with search
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" width="80%"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E855DE,100:8B3DFF&height=120&section=footer&animation=fadeIn" width="100%" />
 
 </div>
