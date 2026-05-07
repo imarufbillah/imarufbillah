@@ -14,7 +14,7 @@
 &nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=imarufbillah&style=for-the-badge&color=EB5C20&labelColor=0d1117&label=PROFILE+VIEWS)](https://github.com/imarufbillah)
 &nbsp;
-[![Repos](https://img.shields.io/badge/Public%20Repos-23+-EB5C20?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white)](https://github.com/imarufbillah?tab=repositories)
+[![Repos](https://img.shields.io/badge/Public%20Repos-27+-EB5C20?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white)](https://github.com/imarufbillah?tab=repositories)
 
 </div>
 
