@@ -127,7 +127,7 @@ Friend dashboard with health status tracking · Interaction timeline with search
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=imarufbillah&theme=transparent&ring=EB5C20&fire=ff6b35&currStreakLabel=EB5C20&sideLabels=888888&currStreakNum=ffffff&sideNums=c9d1d9&dates=666666&border=EB5C2030" height="155"/>
+<img src="https://streak-stats.demolab.com?user=iarufbillah&theme=transparent&ring=EB5C20&fire=ff6b35&currStreakLabel=EB5C20&sideLabels=888888&currStreakNum=ffffff&sideNums=c9d1d9&dates=666666&border=EB5C2030" height="155"/>
 
 <br/><br/>
 
