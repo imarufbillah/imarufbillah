@@ -28,7 +28,7 @@
 |---|---|
 | **Name** | Maruf Billah |
 | **Location** | Dhaka, Bangladesh 🇧🇩 |
-| **Role** | Frontend Developer → Full-Stack (MERN) in Progress |
+| **Role** | Full-Stack (MERN) in Progress |
 | **Current Focus** | `Next.js App Router` · `React 19` · `Context API` |
 | **Learning Next** | `Node.js` · `Express.js` · `MongoDB` |
 | **Philosophy** | *"First, solve the problem. Then, write the code."* |
