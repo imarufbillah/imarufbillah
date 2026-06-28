@@ -13,7 +13,7 @@
 
 ---
 
-I build full-stack web applications with Next.js, Express.js, and MongoDB — with a strong focus on clean architecture, authentication, and UI quality. Currently working on [RecipeHub](#), a production-grade projects covering everything from database design to deployed frontends.
+I build full-stack web applications with React.js, Next.js, Express.js, and MongoDB — with a strong focus on clean architecture, authentication, and UI quality. Currently working on [RecipeHub](#), a production-grade projects covering everything from database design to deployed frontends.
 
 ---
 
