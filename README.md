@@ -2,13 +2,12 @@
 
 <!-- Typing SVG Banner -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=EB5C20&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Maruf+Billah;Full+Stack+Developer;MERN+Stack+%7C+Next.js+%7C+Express+%7C+MongoDB;I+build+and+ship+real+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=EB5C20&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Maruf+Billah;Full-Stack+Developer;MERN+Stack+%7C+Next.js+%7C+Express+%7C+MongoDB;I+build+and+ship+real+products" alt="Typing SVG" />
 </a>
-
-### 📍 Dhaka, Bangladesh &nbsp;|&nbsp; ✉️ marufbillah.dev@gmail.com &nbsp;|&nbsp; 📱 +880 1303-100449
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imarufbillah)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imarufbillah)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marufbillah.dev@gmail.com)
 
 </div>
 
@@ -16,7 +15,7 @@
 
 ## 👋 About Me
 
-I'm a self-taught Full Stack Developer from Dhaka, Bangladesh, building real, deployed products with the MERN stack and Next.js. My flagship project, **RecipeHub**, is a full-stack culinary platform with Stripe payments, JWT/JWKS authentication, role-based access control, and an admin dashboard. I care about clean architecture, polished UI, and shipping things that actually work end-to-end — not just tutorials.
+I'm a self-taught Full-Stack Developer from Dhaka, Bangladesh, building real, deployed products with the MERN stack and Next.js. My flagship project, **RecipeHub**, is a full-stack culinary platform with Stripe payments, JWT/JWKS authentication, role-based access control, and an admin dashboard. I care about clean architecture, polished UI, and shipping things that actually work end-to-end — not just tutorials.
 
 ## 🔭 Currently
 
@@ -74,12 +73,6 @@ I'm a self-taught Full Stack Developer from Dhaka, Bangladesh, building real, de
 | **[MediQueue](https://github.com/imarufbillah/mediqueue-client)** | Tutor booking platform with real-time slots & JWT auth | [Demo](https://mediqueue-by-marufbillah.vercel.app) | Next.js, Express, MongoDB |
 | **[WanderLast](https://github.com/imarufbillah/wanderlast-client)** | Travel booking platform with JWKS auth & RBAC | — | Next.js, Express, MongoDB |
 | **[KeenKeeper](https://github.com/imarufbillah/keen-keeper)** | Personal relationship manager with analytics | [Demo](https://keen-keeper-by-marufbillah.vercel.app) | Next.js, Recharts |
-
-<div align="center">
-
-⭐ Pin these on your profile: **RecipeHub, MediQueue, WanderLast, KeenKeeper** (or swap in BookVibe/DigiTools)
-
-</div>
 
 ---
 
