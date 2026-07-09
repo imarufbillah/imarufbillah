@@ -1,8 +1,13 @@
 <div align="center">
 
-<!-- Typing SVG Banner -->
+### 👋 Hi there, I'm
+
+# Maruf Billah
+
+### Full-Stack Developer
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=EB5C20&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Maruf+Billah;Full-Stack+Developer;MERN+Stack+%7C+Next.js+%7C+Express+%7C+MongoDB;I+build+and+ship+real+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=EB5C20&center=true&vCenter=true&width=600&lines=MERN+Stack+%7C+Next.js+%7C+Express+%7C+MongoDB;I+build+and+ship+real+products;Turning+ideas+into+deployed+applications" alt="Typing SVG" />
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imarufbillah)
@@ -96,6 +101,14 @@ I'm a Full Stack Developer from Dhaka, Bangladesh, working across the MERN stack
 | **[RecipeHub](https://github.com/imarufbillah/recipehub-client)** | Full-stack recipe platform with Stripe payments, RBAC, admin dashboard | [Demo](https://recipehub-by-marufbillah.vercel.app) | Next.js, Express, MongoDB, Stripe |
 | **[MediQueue](https://github.com/imarufbillah/mediqueue-client)** | Tutor booking platform with real-time slots & JWT auth | [Demo](https://mediqueue-by-marufbillah.vercel.app) | Next.js, Express, MongoDB |
 | **[WanderLast](https://github.com/imarufbillah/wanderlast-client)** | Travel booking platform with JWKS auth & RBAC | [Demo](https://wanderlast-by-marufbillah.vercel.app) | Next.js, Express, MongoDB |
+
+---
+
+<div align="center">
+
+> "I don't just learn to code — I build to learn."
+
+</div>
 
 ---
 
