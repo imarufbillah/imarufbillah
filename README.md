@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,100:1E90FF&height=120&section=header" width="100%"/>
+
 ### 👋 Hi there, I'm
 
 # Maruf Billah
@@ -7,7 +9,7 @@
 ### Full-Stack Developer
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=EB5C20&center=true&vCenter=true&width=600&lines=MERN+Stack+%7C+Next.js+%7C+Express+%7C+MongoDB;I+build+and+ship+real+products;Turning+ideas+into+deployed+applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=MERN+Stack+%7C+Next.js+%7C+Express+%7C+MongoDB;I+build+and+ship+real+products;Turning+ideas+into+deployed+applications" alt="Typing SVG" />
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imarufbillah)
@@ -16,7 +18,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,100:1E90FF&height=3" width="100%"/>
 
 ## 👋 About Me
 
@@ -28,7 +30,7 @@ I'm a Full Stack Developer from Dhaka, Bangladesh, working across the MERN stack
 - 🧠 Practicing DSA / LeetCode in JavaScript — focused on optimal time & space complexity
 - 📘 Learning TypeScript to bring type safety into my React/Next.js projects
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,100:1E90FF&height=3" width="100%"/>
 
 ## 🛠️ Tech Stack
 
@@ -79,7 +81,7 @@ I'm a Full Stack Developer from Dhaka, Bangladesh, working across the MERN stack
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,100:1E90FF&height=3" width="100%"/>
 
 ## 📊 GitHub Stats
 
@@ -92,9 +94,7 @@ I'm a Full Stack Developer from Dhaka, Bangladesh, working across the MERN stack
 
 </div>
 
-</div>
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,100:1E90FF&height=3" width="100%"/>
 
 ## 📌 Featured Projects
 
@@ -104,18 +104,16 @@ I'm a Full Stack Developer from Dhaka, Bangladesh, working across the MERN stack
 | **[MediQueue](https://github.com/imarufbillah/mediqueue-client)** | Tutor booking platform with real-time slots & JWT auth | [Demo](https://mediqueue-by-marufbillah.vercel.app) | Next.js, Express, MongoDB |
 | **[WanderLast](https://github.com/imarufbillah/wanderlast-client)** | Travel booking platform with JWKS auth & RBAC | [Demo](https://wanderlast-by-marufbillah.vercel.app) | Next.js, Express, MongoDB |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,100:1E90FF&height=3" width="100%"/>
 
 <div align="center">
 
 > "I don't just learn to code — I build to learn."
 
+💬 Let's connect — always open to full-stack roles, internships, and collaboration!
+
 </div>
 
----
-
-<div align="center">
-
-💬 Let's connect — always open to full-stack roles, internships, and collaboration!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:0A0E27&height=100&section=footer" width="100%"/>
 
 </div>
