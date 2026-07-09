@@ -15,14 +15,13 @@
 
 ## 👋 About Me
 
-I'm a self-taught Full-Stack Developer from Dhaka, Bangladesh, building real, deployed products with the MERN stack and Next.js. My flagship project, **RecipeHub**, is a full-stack culinary platform with Stripe payments, JWT/JWKS authentication, role-based access control, and an admin dashboard. I care about clean architecture, polished UI, and shipping things that actually work end-to-end — not just tutorials.
+I'm a Full Stack Developer from Dhaka, Bangladesh, working across the MERN stack and Next.js to build complete, production-ready web applications. I handle everything from database design and REST APIs to authentication, authorization, and polished frontend UI. I care about clean architecture, scalable code, and shipping products that work end-to-end — not just tutorials.
 
 ## 🔭 Currently
 
 - 🎯 Preparing for job & internship applications
 - 🧠 Practicing DSA / LeetCode in JavaScript — focused on optimal time & space complexity
 - 📘 Learning TypeScript to bring type safety into my React/Next.js projects
-- 🍳 RecipeHub (Stripe + Auth + Admin Dashboard) is my current flagship portfolio piece
 
 ---
 
