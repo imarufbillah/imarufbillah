@@ -71,8 +71,7 @@ I'm a self-taught Full-Stack Developer from Dhaka, Bangladesh, building real, de
 |---|---|---|---|
 | **[RecipeHub](https://github.com/imarufbillah/recipehub-client)** | Full-stack recipe platform with Stripe payments, RBAC, admin dashboard | [Demo](https://recipehub-by-marufbillah.vercel.app) | Next.js, Express, MongoDB, Stripe |
 | **[MediQueue](https://github.com/imarufbillah/mediqueue-client)** | Tutor booking platform with real-time slots & JWT auth | [Demo](https://mediqueue-by-marufbillah.vercel.app) | Next.js, Express, MongoDB |
-| **[WanderLast](https://github.com/imarufbillah/wanderlast-client)** | Travel booking platform with JWKS auth & RBAC | — | Next.js, Express, MongoDB |
-| **[KeenKeeper](https://github.com/imarufbillah/keen-keeper)** | Personal relationship manager with analytics | [Demo](https://keen-keeper-by-marufbillah.vercel.app) | Next.js, Recharts |
+| **[WanderLast](https://github.com/imarufbillah/wanderlast-client)** | Travel booking platform with JWKS auth & RBAC | [Demo](https://wanderlast-by-marufbillah.vercel.app) | Next.js, Express, MongoDB |
 
 ---
 
