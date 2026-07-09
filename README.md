@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,100:1E90FF&height=120&section=header" width="100%"/>
 
-### 👋 Hi there, I'm
+### <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30"/> Hi there, I'm
 
 # Maruf Billah
 
@@ -20,11 +20,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,100:1E90FF&height=3" width="100%"/>
 
-## 👋 About Me
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"/> About Me
 
 I'm a Full Stack Developer from Dhaka, Bangladesh, working across the MERN stack and Next.js to build complete, production-ready web applications. I handle everything from database design and REST APIs to authentication, authorization, and polished frontend UI. I care about clean architecture, scalable code, and shipping products that work end-to-end — not just tutorials.
 
-## 🔭 Currently
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30"/> Currently
 
 - 🎯 Preparing for job & internship applications
 - 🧠 Practicing DSA / LeetCode in JavaScript — focused on optimal time & space complexity
@@ -32,7 +32,7 @@ I'm a Full Stack Developer from Dhaka, Bangladesh, working across the MERN stack
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,100:1E90FF&height=3" width="100%"/>
 
-## 🛠️ Tech Stack
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"/> Tech Stack
 
 **Languages**
 
@@ -83,7 +83,7 @@ I'm a Full Stack Developer from Dhaka, Bangladesh, working across the MERN stack
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,100:1E90FF&height=3" width="100%"/>
 
-## 📊 GitHub Stats
+## <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="30"/> GitHub Stats
 
 <div align="center">
 
@@ -96,7 +96,7 @@ I'm a Full Stack Developer from Dhaka, Bangladesh, working across the MERN stack
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,100:1E90FF&height=3" width="100%"/>
 
-## 📌 Featured Projects
+## <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="30"/> Featured Projects
 
 | Project | Description | Live | Tech |
 |---|---|---|---|
