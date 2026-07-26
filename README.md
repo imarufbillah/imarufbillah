@@ -22,7 +22,7 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25"/> About Me
 
-I'm a Full Stack Developer from Dhaka, Bangladesh, working across the MERN stack and Next.js to build complete, production-ready web applications. I handle everything from database design and REST APIs to authentication, authorization, and polished frontend UI. I care about clean architecture, scalable code, and shipping products that work end-to-end — not just tutorials.
+I'm a Full-Stack Developer from Dhaka, Bangladesh, working across the MERN stack and Next.js to build complete, production-ready web applications. I handle everything from database design and REST APIs to authentication, authorization, and polished frontend UI. I care about clean architecture, scalable code, and shipping products that work end-to-end — not just tutorials.
 
 ## 🔭 Currently
 
