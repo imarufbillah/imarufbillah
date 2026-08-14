@@ -90,7 +90,7 @@ I'm a Full-Stack Developer from Dhaka, Bangladesh, working across the MERN stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=imarufbillah&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=stars,prs,issues&bg_color=0a0e27&title_color=00d4ff&icon_color=1e90ff&text_color=c0d8f0&ring_color=00d4ff" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api?username=imarufbillah&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=stars,prs,issues&bg_color=0a0e27&title_color=00d4ff&icon_color=1e90ff&text_color=c0d8f0&ring_color=00d4ff" width="49%" />
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=imarufbillah&layout=compact&hide_border=true&bg_color=0a0e27&title_color=00d4ff&text_color=c0d8f0&langs_count=10" width="30%" />
 
 <img src="https://streak-stats.demolab.com/?user=imarufbillah&hide_border=true&background=0a0e27&ring=00d4ff&fire=1e90ff&currStreakLabel=00d4ff&sideLabels=c0d8f0&currStreakNum=ffffff&sideNums=ffffff&dates=6b8cae" width="60%" />
