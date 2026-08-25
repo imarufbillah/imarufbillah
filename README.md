@@ -26,9 +26,9 @@ I'm a Full-Stack Developer from Dhaka, Bangladesh, working across the MERN stack
 
 ## 🔭 Currently
 
-- 🎯 Preparing for job & internship applications
+- 🎯 Open for job and internship opportunity
 - 🧠 Practicing DSA / LeetCode in JavaScript — focused on optimal time & space complexity
-- 📘 Learning TypeScript to bring type safety into my React/Next.js projects
+- 📘 Building a GovTech SaaS application
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,100:1E90FF&height=3" width="100%"/>
 
